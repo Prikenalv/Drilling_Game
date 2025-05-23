@@ -1,4 +1,4 @@
-## 🛠️ Drilling Game – A Terminal-Based Mining Simulator in Terminal
+## 🛠️ Drilling Game – A Terminal-Based Mining Simulator
 
 **Drilling Game** is a lightweight, terminal-based mining simulator written in Python. Manage your energy, upgrade your drill, collect ores, and unlock rare materials—all while trying your luck underground.
 
